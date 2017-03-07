@@ -1,1 +1,1 @@
-# Subpage 1.3 Title {#subpage_1_3}
+# Word Addon Framework {#subpage_1_3}

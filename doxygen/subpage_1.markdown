@@ -1,4 +1,4 @@
-# Subpage 1 Title {#subpage_1}
+# Word {#subpage_1}
 
 # The List of subpages:
 

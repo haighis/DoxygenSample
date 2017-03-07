@@ -1,4 +1,4 @@
-# OberoSPM
+# Software Suite
 
 # The List of subpages:
 
